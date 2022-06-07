@@ -1,3 +1,3 @@
 print("sub test folder thingy")
-thing on the wing 
-asdf
+print("thing on the wing ")
+print("asdf")
